@@ -1,6 +1,5 @@
 # Change_Edit_FileName
-# Edit Tilte by utilasing Folder Titles
-# C#
+
 
 Program is a Fast way of renaming or editing file.
 
