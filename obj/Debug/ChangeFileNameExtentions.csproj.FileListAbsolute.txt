@@ -1,0 +1,9 @@
+C:\Users\deric\source\repos\ChangeFileNameExtentions\bin\Debug\ChangeFileNameExtentions.exe.config
+C:\Users\deric\source\repos\ChangeFileNameExtentions\bin\Debug\ChangeFileNameExtentions.exe
+C:\Users\deric\source\repos\ChangeFileNameExtentions\bin\Debug\ChangeFileNameExtentions.pdb
+C:\Users\deric\source\repos\ChangeFileNameExtentions\obj\Debug\ChangeFileNameExtentions.Form1.resources
+C:\Users\deric\source\repos\ChangeFileNameExtentions\obj\Debug\ChangeFileNameExtentions.Properties.Resources.resources
+C:\Users\deric\source\repos\ChangeFileNameExtentions\obj\Debug\ChangeFileNameExtentions.csproj.GenerateResource.cache
+C:\Users\deric\source\repos\ChangeFileNameExtentions\obj\Debug\ChangeFileNameExtentions.csproj.CoreCompileInputs.cache
+C:\Users\deric\source\repos\ChangeFileNameExtentions\obj\Debug\ChangeFileNameExtentions.exe
+C:\Users\deric\source\repos\ChangeFileNameExtentions\obj\Debug\ChangeFileNameExtentions.pdb
